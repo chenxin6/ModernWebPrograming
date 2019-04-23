@@ -20,7 +20,7 @@ blog:  [linwh8](http://write.blog.csdn.net/postlist)
 ## Project
 ### 1.Recipe
  **Result：**
- ![index](https://github.com/linwh8/ModernWebPrograming/raw/master/My_image/recipe_index.png)
+
  ![recipe1](https://github.com/linwh8/ModernWebPrograming/raw/master/My_image/recipe.png)
  ![recipe2](https://github.com/linwh8/ModernWebPrograming/raw/master/My_image/recipe_1.png)
 
